@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hey all, I'm Sam!
+27 year old New Zealander, living in Brazil.
+Continual learning and collaboration is what I'm about. 
+
+- 🔭 I’m currently working on:
+  - Building out my personal portfolio
+  - Part-time contract work for NZ and Brazilian clients
+  - Secret project with a friend 
 
 ![Codewars](https://github.r2v.ch/codewars?user=jsmld&stroke=%23BB432C)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jsmld)
